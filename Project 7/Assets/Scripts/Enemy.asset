@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Enemy
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"3d5e6237-bdfd-4d1d-9743-99b9fcf154fb","$version":"A","$type":"Unity.VisualScripting.Start"},{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":60.0},"guid":"2835e1e7-691f-4767-ac85-977170ff4e7a","$version":"A","$type":"Unity.VisualScripting.Update"}],"$version":"A"}}'
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-134.0,"y":-46.0},"guid":"dc7ca074-c847-4fb9-9777-27dfb1ef8d78","$version":"A","$type":"Unity.VisualScripting.Update"}],"$version":"A"}}'
     _objectReferences: []
